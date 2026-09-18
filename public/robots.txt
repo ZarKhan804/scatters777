@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scatters777.com/sitemap.xml
