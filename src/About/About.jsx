@@ -13,7 +13,7 @@ function About() {
 
         <meta
           name="description"
-          content="Learn about Scatter Game, its platform information, gaming features, mobile access, account guidance, and responsible gaming tips for users in Pakistan."
+          content="Learn about Scatter Game, platform features, mobile access, and responsible gaming in Pakistan."
         />
 
         <meta
