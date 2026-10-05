@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
-    <loc>https://scatters777.com/</loc>
+    <loc>https://www.scatters777.com/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <priority>1.0</priority>
   </url>
-
   <url>
-    <loc>https://scatters777.com/about</loc>
+    <loc>https://www.scatters777.com/about</loc>
+    <lastmod>2026-10-06</lastmod>
+    <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://scatters777.com/blog</loc>
+    <loc>https://www.scatters777.com/blog</loc>
+    <lastmod>2026-10-06</lastmod>
+    <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://scatters777.com/contact</loc>
+    <loc>https://www.scatters777.com/contact</loc>
+    <lastmod>2026-10-06</lastmod>
+    <priority>0.6</priority>
   </url>
-
+  <url>
+    <loc>https://www.scatters777.com/download</loc>
+    <lastmod>2026-10-06</lastmod>
+    <priority>0.9</priority>
+  </url>
 </urlset>
