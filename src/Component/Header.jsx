@@ -63,7 +63,7 @@ function Header() {
             </div>
             <div>
               <span className="block text-lg font-extrabold leading-none sm:text-xl">
-                GOLO <span className="text-yellow-400"> GAME</span>
+                SCATTER <span className="text-yellow-400"> GAME</span>
               </span>
               <span className="mt-1 block text-[10px] font-medium uppercase tracking-[0.2em] text-white">
                 Gaming Platform
